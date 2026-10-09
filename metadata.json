@@ -1,0 +1,6 @@
+{
+  "name": "NexusPix Studio PWA",
+  "description": "Moderne Web PWA Bildergalerie mit Cloud-Sync, Remote-URL-Caching, KI-Bildstudio mit Chatbot und universellem Batch-Konverter & Bildskalierer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
